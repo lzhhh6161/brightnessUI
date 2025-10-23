@@ -1,0 +1,12 @@
+# git ignore the following folders:
+/build
+/devel
+/dist
+# /logs
+# src/CMakeLists.txt
+/.catkin_workspace
+/.catkin_tools
+.vscode
+*.egg-info
+__pycache__
+/install/brightness-ui.desktop
