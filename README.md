@@ -1,6 +1,8 @@
 # brightnessUI
 
 ## Introduction
+独显GPU工作下系统亮度无法调节，此软件可以直接调节，摘自https://gitee.com/shu-peixuan/brightnessUI
+
 A simple UI to change screen backlight (brightness) for Ubuntu20.
 
 Purpose: An alternative for those computers with system brightness slider not working. This UI changes the backlight by modifying `/sys/class/backlight/xxx/brightness` directly, where `xxx` differs according to your computer.
